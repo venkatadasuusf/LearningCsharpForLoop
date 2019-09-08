@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29230.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningCsharpForLoop", "LearningCsharpForLoop.csproj", "{44C063DD-06EF-458C-9633-457906093B84}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningCsharArrays", "..\LearningCsharArrays\LearningCsharArrays.csproj", "{8A2C4B1B-0B2B-4B5F-807B-B0183025C38D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{44C063DD-06EF-458C-9633-457906093B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44C063DD-06EF-458C-9633-457906093B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44C063DD-06EF-458C-9633-457906093B84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A2C4B1B-0B2B-4B5F-807B-B0183025C38D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A2C4B1B-0B2B-4B5F-807B-B0183025C38D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A2C4B1B-0B2B-4B5F-807B-B0183025C38D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A2C4B1B-0B2B-4B5F-807B-B0183025C38D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
